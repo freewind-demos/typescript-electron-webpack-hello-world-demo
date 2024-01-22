@@ -18,5 +18,5 @@ Typescript Electron Webpack Hello World Demo
 
 ```
 npm install
-npm demo
+npm start
 ```
